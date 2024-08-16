@@ -1,1 +1,1 @@
-Placeholder for CST images
+# Placeholder for CST images
