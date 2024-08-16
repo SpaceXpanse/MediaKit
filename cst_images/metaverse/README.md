@@ -1,0 +1,1 @@
+# Placeholder for metaverse images
